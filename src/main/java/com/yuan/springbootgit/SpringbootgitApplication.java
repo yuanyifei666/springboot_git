@@ -4,6 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
+/**
+ * 组员的账号
+ */
 public class SpringbootgitApplication {
 
     public static void main(String[] args) {
