@@ -3,6 +3,9 @@ package com.yuan.springbootgit;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * 项目经理的账号
+ */
 @SpringBootApplication
 public class SpringbootgitApplication {
 
