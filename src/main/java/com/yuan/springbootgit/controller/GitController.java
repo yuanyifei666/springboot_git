@@ -15,4 +15,10 @@ public class GitController {
         System.out.println("使用idea测试git的使用");
         return "this my first git project ";
     }
+
+    @RequestMapping("test01")
+    public String hello02(){
+        return "test this git branch";
+    }
+
 }
