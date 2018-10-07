@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootgitApplication {
 
     public static void main(String[] args) {
+        System.out.println("springboot程序的入口");
         SpringApplication.run(SpringbootgitApplication.class, args);
     }
 }

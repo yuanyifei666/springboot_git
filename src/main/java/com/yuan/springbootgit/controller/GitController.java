@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class GitController {
     @GetMapping("hello")
     public String hello()throws Exception{
+        System.out.println("使用idea测试git的使用");
         return "this my first git project ";
     }
 }
